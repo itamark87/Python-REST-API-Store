@@ -1,3 +1,6 @@
-# TEST
+# Python-REST-API-Store
 
-This is just a test code for deployment on Heroku.
+This is my first attempt at building a backend of a store using python.
+I used Flask-RESTful, Flask-JWT for authentification and Flask-SQLAlchemy for handling data.
+
+
